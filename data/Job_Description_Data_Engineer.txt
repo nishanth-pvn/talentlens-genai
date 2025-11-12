@@ -1,0 +1,79 @@
+POSITION: Senior Data Engineer
+LOCATION: Singapore
+DEPARTMENT: IT - Data & Analytics
+EMPLOYMENT TYPE: Full-time
+
+JOB SUMMARY:
+We are seeking an experienced Data Engineer to design, build, and maintain scalable data pipelines and infrastructure supporting our pharmaceutical research and clinical trial operations. This role is critical in ensuring our data infrastructure supports business intelligence, analytics, and machine learning initiatives.
+
+REQUIRED QUALIFICATIONS:
+• 5+ years of experience in data engineering roles
+• Strong programming skills in Python and SQL
+• Experience with cloud platforms (AWS/Azure/GCP) and cloud-native data services
+• Expertise in building ETL/ELT pipelines using modern tools
+• Proficiency with big data technologies (Apache Spark, Kafka, Airflow)
+• Experience with data warehousing solutions (Snowflake, Redshift, BigQuery)
+• Strong understanding of data modeling, database design, and optimization
+• Experience with version control (Git) and CI/CD practices
+• Bachelor's degree in Computer Science, Engineering, or related field
+
+PREFERRED QUALIFICATIONS:
+• Experience in pharmaceutical, healthcare, or life sciences industry
+• Knowledge of data governance frameworks and regulatory compliance (GDPR, HIPAA, GxP)
+• Experience with real-time data processing and streaming architectures
+• Familiarity with containerization (Docker, Kubernetes)
+• Experience building data pipelines for machine learning applications
+• AWS/Azure/GCP professional certifications
+• Master's degree in related field
+
+KEY RESPONSIBILITIES:
+• Design, develop, and maintain scalable data pipelines and ETL processes
+• Build and optimize data warehouse solutions for analytics and reporting
+• Implement data quality frameworks and monitoring systems
+• Optimize data infrastructure for performance, reliability, and cost-efficiency
+• Collaborate with data scientists, analysts, and business stakeholders
+• Ensure compliance with data governance and security standards
+• Create technical documentation and data dictionaries
+• Mentor junior engineers and promote best practices
+• Evaluate and implement new data technologies and tools
+
+BEHAVIORAL COMPETENCIES (Boehringer Ingelheim):
+
+1. Communicate with candor
+   - Present technical concepts clearly to non-technical stakeholders
+   - Provide honest assessments of project timelines and challenges
+   - Create comprehensive technical documentation
+   - Surface disagreements with respect and propose alternatives
+
+2. Decide and act with speed
+   - Make informed technical decisions efficiently
+   - Quickly troubleshoot and resolve data pipeline issues
+   - Prioritize tasks effectively to meet deadlines
+   - Take initiative on process improvements
+
+3. Innovate and drive change
+   - Introduce new technologies and methodologies
+   - Challenge existing processes and propose improvements
+   - Stay current with industry trends and best practices
+   - Lead proof-of-concept initiatives for new tools
+
+4. Deliver to win
+   - Meet project deadlines consistently with high-quality work
+   - Take accountability for pipeline reliability and data quality
+   - Focus on outcomes that drive business value
+   - Balance technical excellence with practical delivery
+
+5. Collaborate with a purpose
+   - Work effectively across data, engineering, and business teams
+   - Share knowledge and mentor team members
+   - Engage stakeholders proactively for requirements
+   - Build consensus on technical approaches
+
+SALARY RANGE: SGD 90,000 - 130,000 per annum (based on experience)
+
+BENEFITS:
+• Health insurance coverage
+• Professional development budget
+• Flexible working arrangements
+• Annual performance bonus
+• Stock options
