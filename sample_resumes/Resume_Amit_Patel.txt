@@ -1,0 +1,53 @@
+DR. AMIT PATEL
+amit.patel@email.com | +65 9345 6789
+Singapore
+
+PROFESSIONAL PROFILE
+Data Scientist with 4 years of experience in machine learning and analytics, seeking transition to Data Engineering role. Strong programming skills and growing interest in data infrastructure and pipeline development.
+
+SKILLS
+Programming: Python (Expert), R, SQL
+ML/AI: Scikit-learn, TensorFlow, PyTorch, XGBoost
+Data: Pandas, NumPy, Spark (basic), Jupyter, Git
+Cloud: AWS (S3, SageMaker, EC2), GCP (basic)
+Databases: PostgreSQL, MySQL, MongoDB (basic)
+
+EXPERIENCE
+
+Senior Data Scientist | Analytics Firm | Singapore | 2021 - Present
+• Developed machine learning models for customer churn prediction (AUC 0.89)
+• Built recommendation systems using collaborative filtering algorithms
+• Created Python scripts for data preprocessing and feature engineering
+• Deployed ML models using Flask APIs and Docker containers
+• Wrote SQL queries to extract data from PostgreSQL for model training
+• Collaborated with engineering team to productionize ML models
+
+Data Scientist | Research Institute | Singapore | 2019 - 2021
+• Conducted statistical analysis on clinical trial data using R and Python
+• Built predictive models for patient outcome analysis
+• Created visualizations and reports for research publications
+• Managed datasets and performed data cleaning operations
+
+EDUCATION
+PhD in Statistics | Indian Statistical Institute | 2019
+Master of Statistics | University of Delhi | 2015
+Bachelor of Science (Mathematics & Statistics) | University of Mumbai | 2013
+
+PUBLICATIONS
+• Published 8 peer-reviewed papers on statistical modeling and machine learning
+• Presented research at international conferences
+
+RELEVANT COURSEWORK & SELF-LEARNING
+• Currently studying: AWS Data Engineer certification materials
+• Online courses: Data Engineering on GCP, Apache Spark for Data Engineers
+• Side project: Building a data pipeline using Airflow for personal finance tracking
+
+MOTIVATION FOR TRANSITION
+Interested in moving upstream to build robust data infrastructure that enables ML and analytics at scale. Want to focus on data engineering fundamentals, pipeline reliability, and scalable architecture rather than model development.
+
+STRENGTHS
+• Strong analytical and problem-solving skills
+• Excellent Python programming abilities
+• Good understanding of data requirements for ML applications
+• Self-motivated learner actively upskilling in data engineering
+• Experience working with large datasets and performance optimization
