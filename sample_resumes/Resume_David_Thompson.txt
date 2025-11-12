@@ -1,0 +1,41 @@
+DAVID THOMPSON
+david.thompson@email.com | +65 9234 5678
+Singapore
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5 years of hands-on experience in data pipeline development and big data processing. Focused on technical excellence and code quality.
+
+TECHNICAL SKILLS
+Python, SQL, Scala, Java, PySpark, Apache Kafka, Apache Airflow, AWS (S3, EMR, Glue, Redshift), Docker, Git, PostgreSQL, MongoDB, Cassandra, Snowflake
+
+WORK HISTORY
+
+Data Engineer | Tech Company | Singapore | 2020 - Present
+• Developed data pipelines using Python and Spark
+• Built ETL jobs on AWS Glue processing large datasets
+• Created Airflow workflows for job orchestration
+• Optimized SQL queries for Redshift data warehouse
+• Worked independently on assigned tasks and projects
+
+Software Engineer | Previous Company | Australia | 2018 - 2020
+• Developed backend services using Python and Java
+• Implemented REST APIs and microservices
+• Used PostgreSQL for data storage
+• Wrote unit tests and performed code reviews
+
+EDUCATION
+Bachelor of Computer Science | University of Sydney | 2018
+
+CERTIFICATIONS
+AWS Certified Developer - Associate | 2021
+
+ACHIEVEMENTS
+• Reduced ETL job runtime by 40% through code optimization
+• Implemented caching mechanism improving query performance
+• Completed all assigned tickets within sprint deadlines
+
+WORK PREFERENCES
+• Prefer working on individual coding tasks rather than meetings
+• Focus best when working independently without interruptions
+• Prefer documented requirements over verbal discussions
+• Work best during off-peak hours with minimal collaboration

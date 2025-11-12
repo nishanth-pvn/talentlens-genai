@@ -1,0 +1,101 @@
+MARIA SANTOS
+maria.santos@email.com | +65 9123 8765 | github.com/mariasantos | blog.mariasantos.dev
+Singapore
+
+PROFILE
+Innovative Data Engineer with 6 years of experience driving technical excellence and process improvements. Passionate about adopting cutting-edge technologies and building efficient, scalable data solutions. Strong advocate for engineering best practices and knowledge sharing.
+
+TECHNICAL STACK
+Languages: Python, SQL, Scala, Go
+Cloud: AWS (Glue, EMR, Redshift, Lambda, Step Functions, S3, Athena), GCP (BigQuery, Dataflow)
+Big Data: Apache Spark, Apache Kafka, Apache Airflow, dbt
+Databases: Snowflake, PostgreSQL, DynamoDB, Cassandra
+DevOps: Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD
+Modern Stack: Delta Lake, Apache Iceberg, Dagster, Great Expectations
+
+PROFESSIONAL JOURNEY
+
+Senior Data Engineer | FinTech Unicorn | Singapore | Aug 2021 - Present
+Innovation & Technical Leadership:
+• Pioneered adoption of dbt for data transformation, creating company-wide standards adopted by 30+ engineers
+• Led proof-of-concept for migrating from Airflow to Dagster, presenting findings to engineering leadership
+• Introduced Great Expectations for data quality testing, reducing data incidents by 75%
+• Built internal Python library for common data engineering patterns, saving 40% development time
+• Championed shift-left testing approach, implementing CI/CD pipelines with automated data quality checks
+
+Technical Delivery:
+• Architected event-driven data platform processing 500M+ events daily using Kafka and Spark Streaming
+• Built near-real-time fraud detection pipeline with <100ms latency using Kafka and Flink
+• Designed and implemented medallion architecture (Bronze/Silver/Gold) on Delta Lake
+• Optimized Spark jobs reducing compute costs by 60% through partitioning and caching strategies
+
+Collaboration & Impact:
+• Facilitated biweekly "Data Engineering Forum" sharing best practices across teams
+• Mentored 5 junior engineers through structured onboarding program
+• Partnered with ML team to build feature store enabling faster model deployment
+• Conducted lunch-and-learn sessions on topics like "Streaming Architecture" and "Data Quality Patterns"
+
+Data Engineer | E-Commerce Platform | Philippines | Jan 2019 - Jul 2021
+• Developed real-time data pipelines using AWS Kinesis and Lambda for user behavior tracking
+• Built dimensional data warehouse in Redshift supporting analytics for 500+ business users
+• Implemented Airflow for workflow orchestration, replacing legacy cron jobs
+• Created comprehensive documentation and runbooks for all data systems
+• Quickly resolved production incidents, often taking initiative outside business hours
+
+Junior Data Engineer | Startup | Philippines | Jun 2017 - Dec 2018
+• Built ETL pipelines using Python and PostgreSQL
+• Developed reporting dashboards using SQL and Tableau
+• Learned cloud technologies through self-study and on-the-job projects
+
+EDUCATION
+Bachelor of Science in Computer Engineering | University of the Philippines | 2017
+Honor: Cum Laude
+
+CERTIFICATIONS & LEARNING
+• AWS Certified Solutions Architect - Professional (2023)
+• dbt Certified Developer (2022)
+• Databricks Certified Data Engineer (2023)
+• Active learner: Currently exploring Apache Iceberg and data lakehouse architecture
+
+COMMUNITY CONTRIBUTIONS
+• Speaker at Data Engineering Singapore Meetup (3 talks delivered)
+• Maintainer of open-source data quality library (200+ GitHub stars)
+• Published 25+ technical blog posts on data engineering topics
+• Mentor for Women in Data community
+
+KEY STRENGTHS DEMONSTRATED
+
+Communicate with Candor:
+• Known for honest technical assessments and transparent communication with stakeholders
+• Regularly present complex technical concepts to non-technical business teams
+• Provide constructive code review feedback focusing on learning and improvement
+• Surface concerns early and propose solutions proactively
+
+Decide and Act with Speed:
+• Resolved critical Kafka cluster failure affecting 50+ downstream systems in under 30 minutes
+• Made quick decision to implement circuit breaker pattern preventing cascade failures
+• Rapidly prototype solutions before committing to full implementation
+
+Innovate and Drive Change:
+• Introduced 5+ new technologies now adopted company-wide
+• Challenge status quo respectfully with data-driven proposals
+• Stay current with industry trends through continuous learning
+• Create reusable patterns and frameworks for team efficiency
+
+Deliver to Win:
+• Maintained 98% on-time delivery across 50+ projects over 3 years
+• Balance technical excellence with pragmatic delivery
+• Take ownership of production systems and reliability
+• Focus on business impact, not just technical metrics
+
+Collaborate with a Purpose:
+• Built strong cross-functional relationships with Data Science, Analytics, and Product teams
+• Actively share knowledge through documentation, presentations, and mentoring
+• Seek diverse perspectives when making architectural decisions
+• Engage stakeholders early to ensure alignment on requirements
+
+LANGUAGES
+English (Fluent), Filipino/Tagalog (Native), Spanish (Conversational)
+
+INTERESTS
+Tech communities, Open source contribution, Technical writing, Hiking

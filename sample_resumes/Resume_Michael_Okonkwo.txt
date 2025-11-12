@@ -1,0 +1,49 @@
+MICHAEL OKONKWO
+michael.okonkwo@email.com | +65 9876 5432
+Singapore
+
+PROFESSIONAL SUMMARY
+Data Engineer with 8 years of experience in building enterprise data warehouses and ETL solutions. Strong expertise in traditional data technologies and on-premise infrastructure. Seeking opportunities to expand cloud skills.
+
+TECHNICAL EXPERTISE
+Databases: Oracle, SQL Server, Teradata, MySQL, DB2
+ETL Tools: Informatica PowerCenter, IBM DataStage, Microsoft SSIS
+Programming: SQL, PL/SQL, Python, Shell scripting
+BI Tools: Tableau, QlikView, SSRS
+Data Modeling: Erwin, Dimensional modeling, 3NF
+
+EMPLOYMENT HISTORY
+
+Senior ETL Developer | Global Bank Ltd | Singapore | 2018 - Present
+• Developed complex ETL workflows using Informatica PowerCenter for banking data warehouse
+• Built and maintained data mart serving 500+ business users across Asia Pacific region
+• Created stored procedures and database functions for data transformation logic
+• Performed database performance tuning and query optimization
+• Documented ETL processes and data lineage for audit compliance
+• Provided production support and resolved data quality issues
+
+ETL Developer | Insurance Company | Singapore | 2015 - 2018
+• Designed and implemented ETL processes using IBM DataStage
+• Built dimensional models for customer analytics and claims reporting
+• Wrote complex SQL queries for data validation and reconciliation
+• Collaborated with business analysts to understand reporting requirements
+
+Database Developer | IT Services Company | Nigeria | 2013 - 2015
+• Developed database applications using Oracle PL/SQL
+• Created reports using SQL Server Reporting Services
+• Performed database maintenance and backup operations
+
+EDUCATION
+Bachelor of Science in Information Technology | University of Lagos | 2013
+Oracle Certified Professional | 2016
+
+ACCOMPLISHMENTS
+• Successfully delivered data warehouse migration project for 50TB database
+• Optimized critical ETL jobs reducing runtime from 8 hours to 3 hours
+• Trained 5 junior developers on ETL best practices and data modeling
+
+ADDITIONAL INFORMATION
+• Strong attention to detail and commitment to data quality
+• Reliable team member with good attendance record
+• Willing to work extended hours when needed to meet deadlines
+• Currently taking online courses on AWS and modern data engineering tools

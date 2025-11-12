@@ -1,0 +1,49 @@
+PRIYA SHARMA
+priya.sharma@email.com | +65 8765 4321 | github.com/priyasharma
+Singapore
+
+OBJECTIVE
+Enthusiastic Data Engineer with 3 years of experience seeking to leverage Python and SQL skills in a senior data engineering role. Quick learner passionate about big data technologies and cloud computing.
+
+TECHNICAL SKILLS
+Languages: Python, SQL, Java (basic)
+Cloud: AWS (S3, Lambda, EC2), GCP (BigQuery)
+Tools: Apache Spark, Airflow, Git, Jupyter
+Databases: PostgreSQL, MySQL, MongoDB
+Other: Pandas, NumPy, Docker (learning)
+
+EXPERIENCE
+
+Data Engineer | E-commerce Startup | Singapore | Jan 2022 - Present
+• Develop Python scripts for daily ETL jobs processing customer and transaction data
+• Write SQL queries to extract and transform data from PostgreSQL database
+• Created Airflow DAGs for scheduling batch jobs
+• Built dashboards in Tableau connecting to PostgreSQL
+• Participate in daily standups and sprint planning meetings
+
+Junior Data Analyst | Consulting Firm | India | Jul 2020 - Dec 2021
+• Analyzed business data using SQL and Python pandas
+• Created Excel reports for client presentations
+• Assisted senior data engineers in pipeline development
+• Learned basics of data warehousing and ETL concepts
+
+EDUCATION
+Master of Science in Data Science | National University of Singapore | 2020
+Bachelor of Technology in Computer Science | Delhi University | 2018
+
+ONLINE COURSES & CERTIFICATIONS
+• Coursera: Google Cloud Professional Data Engineer (in progress)
+• Udemy: Apache Spark and PySpark - Complete Course
+• DataCamp: Data Engineering Track (completed 80%)
+
+PROJECTS
+• Personal Project: Built a web scraper using Python and stored data in MongoDB
+• University Project: Analyzed Singapore weather data using Spark and visualized in Tableau
+• Hackathon: Participated in AWS Deep Racer challenge (3rd place in university category)
+
+STRENGTHS
+• Fast learner with strong motivation to grow technical skills
+• Good foundation in programming and database concepts
+• Eager to take on challenging projects and learn from senior engineers
+• Active in data engineering community, attending meetups and conferences
+• Strong academic background with focus on machine learning and statistics

@@ -1,0 +1,48 @@
+EMILY CHEN
+emily.chen@email.com | +65 8234 5678 | github.com/emilychen
+Singapore
+
+SUMMARY
+Cloud-focused Data Engineer with 6 years of experience building data infrastructure on AWS and Azure. Strong background in big data processing, data warehousing, and real-time analytics. Passionate about automation and implementing best practices.
+
+SKILLS
+• Programming: Python, SQL, PySpark, Shell scripting
+• Cloud: AWS (S3, Glue, Athena, Lambda, EMR), Azure (ADF, Databricks)
+• Big Data: Apache Spark, Kafka, Airflow, Databricks
+• Databases: Snowflake, PostgreSQL, DynamoDB, CosmosDB
+• DevOps: Docker, Jenkins, GitLab CI/CD, Terraform, CloudFormation
+• Certifications: AWS Solutions Architect - Associate, Azure Data Engineer Associate
+
+WORK EXPERIENCE
+
+Data Engineer | CloudData Solutions | Singapore | Jul 2019 - Present
+• Built serverless data pipelines on AWS using Lambda, S3, and Glue processing 100GB+ daily
+• Implemented event-driven architecture using Kafka for real-time data ingestion
+• Developed Airflow DAGs for orchestrating complex ETL workflows across 20+ data sources
+• Migrated legacy ETL jobs to Databricks, improving performance by 3x
+• Automated infrastructure provisioning using Terraform, reducing deployment time by 80%
+• Created data catalog and lineage documentation using AWS Glue Crawler
+• Worked on POC for streaming analytics using Kafka and Spark Structured Streaming
+
+Data Analyst | FinTech Startup | Singapore | Jan 2018 - Jun 2019
+• Designed and built data warehouse on PostgreSQL for financial reporting
+• Created Python scripts for data extraction from APIs and databases
+• Developed SQL-based reports and dashboards for business stakeholders
+• Performed data quality audits and implemented validation rules
+
+EDUCATION
+Bachelor of Engineering (Computer Science) | Nanyang Technological University | 2017
+Coursera: Big Data Specialization | 2020
+
+PROJECTS & ACHIEVEMENTS
+• Led initiative to implement data quality monitoring, reducing data incidents by 70%
+• Developed reusable Python library for common ETL patterns, adopted by entire team
+• Contributed to open-source Apache Airflow project (3 merged PRs)
+• Presented at AWS User Group Singapore on "Cost Optimization for Data Pipelines"
+
+STRENGTHS
+• Quick learner who rapidly adapts to new technologies and frameworks
+• Strong problem-solver with ability to debug complex distributed systems
+• Effective communicator who can explain technical concepts to business users
+• Team player who actively shares knowledge through documentation and presentations
+• Takes initiative in proposing process improvements and automation opportunities

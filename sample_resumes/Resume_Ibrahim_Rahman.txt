@@ -1,0 +1,43 @@
+IBRAHIM RAHMAN
+ibrahim.rahman@email.com | +65 8234 9876
+Singapore
+
+SUMMARY
+Data Engineer with 5 years experience in building data pipelines and ETL processes. Strong technical skills in Python, SQL, and cloud platforms.
+
+TECHNICAL SKILLS
+Python | SQL | PySpark | Apache Airflow | AWS (S3, Glue, Redshift, Lambda) | Snowflake | PostgreSQL | Git | Docker
+
+WORK EXPERIENCE
+
+Data Engineer | Financial Services Company | Singapore | 2020 - Present
+Responsibilities:
+- Develop ETL pipelines using Python and AWS Glue
+- Write SQL queries for data transformation in Redshift
+- Build Airflow DAGs for job scheduling
+- Optimize database queries and indexing
+- Fix bugs and production issues
+
+Data Engineer | IT Consulting | Malaysia | 2018 - 2020
+- Built data pipelines for client projects
+- Worked with various data sources and databases
+- Developed Python scripts for automation
+- Maintained existing ETL jobs
+
+EDUCATION
+Bachelor of Computer Science | University of Malaya | 2018
+
+CERTIFICATIONS
+AWS Certified Developer - Associate (2021)
+
+ACHIEVEMENTS
+- Completed 100+ Jira tickets in 2023
+- Zero critical bugs in production
+- Always meet sprint commitments
+
+NOTES
+- Prefer written communication over video calls
+- English is second language, sometimes need time to formulate responses in meetings
+- Work better with detailed written requirements
+- Not comfortable presenting to large groups
+- Prefer technical discussions over business meetings

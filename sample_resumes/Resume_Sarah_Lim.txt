@@ -1,0 +1,64 @@
+SARAH LIM
+sarah.lim@email.com | +65 8123 4567 | linkedin.com/in/sarahlim
+Singapore
+
+EXECUTIVE SUMMARY
+Senior Data Engineer specializing in healthcare and life sciences with 6+ years of experience building HIPAA-compliant data infrastructure. Expert in cloud data platforms, regulatory compliance, and cross-functional collaboration. Proven ability to translate complex clinical data requirements into scalable technical solutions.
+
+CORE COMPETENCIES
+• Cloud Platforms: AWS (Glue, S3, Redshift, Lambda, EMR), Azure (Data Factory, Synapse Analytics)
+• Programming: Python, SQL, PySpark, Shell scripting
+• Big Data: Apache Spark, Kafka, Airflow, Databricks
+• Data Warehousing: Snowflake, Redshift, PostgreSQL
+• Compliance: HIPAA, GDPR, GxP, 21 CFR Part 11
+• Tools: DBT, Git, Docker, Jenkins, Terraform
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | PharmaTech Solutions | Singapore | Mar 2020 - Present
+• Architected and built cloud data platform on AWS supporting clinical trial data for 15+ pharmaceutical clients
+• Designed data pipelines processing 10M+ patient records daily while ensuring HIPAA and GDPR compliance
+• Led implementation of data governance framework including data quality rules, lineage tracking, and access controls
+• Collaborated with clinical data managers, biostatisticians, and regulatory affairs to define data requirements
+• Mentored team of 3 data engineers, conducting regular 1-on-1s and technical training sessions
+• Implemented real-time data validation for clinical trial submissions, reducing data errors by 85%
+• Presented data architecture proposals to senior stakeholders and obtained buy-in for cloud migration
+
+Key Achievements:
+- Delivered EDC (Electronic Data Capture) integration platform 3 weeks ahead of schedule
+- Reduced clinical data processing time from 48 hours to 4 hours through pipeline optimization
+- Achieved 99.95% data pipeline uptime over 2-year period
+- Received "Innovation Award" for implementing automated data quality framework
+
+Data Engineer | HealthCare Analytics | Singapore | Jan 2018 - Feb 2020
+• Built ETL pipelines integrating EHR (Electronic Health Records) data from hospital systems
+• Developed data models for patient analytics and population health management
+• Created data quality monitoring dashboards identifying data anomalies in real-time
+• Worked closely with data privacy officer to ensure compliance with healthcare regulations
+• Participated in on-call rotation, responding to production issues within SLA
+
+Junior Data Engineer | MedData Corp | Singapore | Jun 2016 - Dec 2017
+• Developed data extraction scripts for clinical databases
+• Assisted in building data warehouse for medical research
+• Created documentation for data pipeline processes
+• Participated in agile ceremonies and sprint planning
+
+EDUCATION & CERTIFICATIONS
+Bachelor of Engineering (Computer Science) | National University of Singapore | 2016
+AWS Certified Solutions Architect - Professional | 2022
+Azure Data Engineer Associate | 2021
+Certified Healthcare Data Analyst (CHDA) | 2019
+
+PUBLICATIONS & SPEAKING
+• Co-author: "Building Compliant Data Pipelines for Clinical Trials" - Data Engineering Summit 2023
+• Speaker: "Data Engineering in Pharma" - Healthcare IT Conference Singapore 2022
+
+BEHAVIORAL STRENGTHS
+• Communicate with candor: Regularly present technical solutions to clinical and regulatory stakeholders, adapting communication style for different audiences. Known for providing honest status updates and surfacing risks early
+• Decide and act with speed: Made critical decision to rollback deployment when data validation failed, preventing potential regulatory violation. Resolved production outage affecting clinical trial submission within 1 hour
+• Innovate and drive change: Championed adoption of infrastructure-as-code, reducing environment setup time from days to hours. Introduced automated testing framework improving code quality
+• Deliver to win: Consistently met project deadlines across 12+ clinical trial data integration projects. Maintained 100% on-time delivery rate for past 18 months
+• Collaborate with a purpose: Built strong partnerships with clinical operations, quality assurance, and IT security teams. Actively mentored junior engineers and facilitated knowledge sharing sessions
+
+LANGUAGES
+English (Native), Mandarin (Fluent), Malay (Conversational)

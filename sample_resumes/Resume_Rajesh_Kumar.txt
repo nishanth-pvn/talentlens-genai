@@ -1,0 +1,55 @@
+RAJESH KUMAR
+Email: rajesh.kumar@email.com | Phone: +65 9123 4567 | LinkedIn: linkedin.com/in/rajeshkumar
+Location: Singapore
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 7+ years of experience building scalable data pipelines and infrastructure for healthcare and pharmaceutical companies. Expert in cloud-based data solutions, ETL development, and big data technologies. Proven track record of delivering high-impact data projects while mentoring junior team members.
+
+TECHNICAL SKILLS
+Languages: Python, SQL, Scala, Java
+Cloud Platforms: AWS (Redshift, S3, Lambda, Glue, EMR), Azure (Data Factory, Synapse)
+Big Data: Apache Spark, Kafka, Airflow, Hadoop
+Databases: PostgreSQL, MySQL, MongoDB, Snowflake, Redshift
+Tools: DBT, Docker, Kubernetes, Git, Jenkins, Terraform
+Data Modeling: Dimensional modeling, Data vault, Star schema
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | MedTech Analytics Pte Ltd | Singapore | Jan 2020 - Present
+• Designed and implemented end-to-end data pipelines processing 50M+ healthcare records daily using AWS Glue, Spark, and Airflow
+• Led migration of on-premise data warehouse to Snowflake, reducing query time by 60% and costs by 40%
+• Built real-time streaming pipeline using Kafka and Spark Streaming for clinical trial data monitoring
+• Implemented data quality framework that improved data accuracy from 87% to 99.5%
+• Mentored team of 4 junior engineers, conducting code reviews and knowledge sharing sessions
+• Collaborated with data science team to build ML pipelines for patient risk prediction models
+• Ensured HIPAA compliance across all data infrastructure and processes
+
+Data Engineer | Healthcare Solutions Inc | Singapore | Mar 2017 - Dec 2019
+• Developed ETL pipelines using Python and Airflow to integrate data from 15+ hospital systems
+• Built dimensional data models in Redshift supporting business intelligence and reporting
+• Optimized SQL queries and database indexes, improving dashboard load time by 70%
+• Created comprehensive technical documentation for all data pipelines and workflows
+• Participated in on-call rotation, maintaining 99.9% pipeline uptime
+
+Junior Data Engineer | Tech Innovations Ltd | India | Jun 2015 - Feb 2017
+• Developed data extraction scripts in Python for various source systems
+• Assisted in database design and optimization for customer analytics platform
+• Created automated data quality checks and monitoring alerts
+
+EDUCATION
+Bachelor of Technology in Computer Science | Indian Institute of Technology | 2015
+AWS Certified Data Analytics - Specialty | 2021
+Snowflake SnowPro Core Certification | 2022
+
+KEY ACHIEVEMENTS
+• Reduced data pipeline processing time by 65% through optimization and parallelization
+• Successfully led migration of 500TB data warehouse with zero downtime
+• Presented "Building Compliant Healthcare Data Pipelines" at AWS Summit Singapore 2023
+• Received "Outstanding Performer" award for 2 consecutive years
+
+BEHAVIORAL EXAMPLES
+• Communicate with candor: Led weekly architecture review meetings, providing honest feedback on design proposals and explaining complex technical trade-offs to business stakeholders
+• Decide and act with speed: Resolved critical production pipeline failure affecting 200+ users within 2 hours by quickly diagnosing root cause and implementing fix
+• Innovate and drive change: Introduced DBT for data transformation, improving code maintainability and reducing deployment time by 50%
+• Deliver to win: Delivered cloud migration project 2 weeks ahead of schedule while maintaining data quality standards
+• Collaborate with a purpose: Worked closely with data scientists, analysts, and compliance team to ensure data infrastructure met all requirements
