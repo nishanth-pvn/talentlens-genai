@@ -41,7 +41,7 @@ with col1:
     st.markdown('<div class="card-title">Resume Screener</div>', unsafe_allow_html=True)
     st.text(' ')
     st.markdown('<div class="card-description">Analyze and evaluate candidates on technical fit and 5 BI Behaviors</div>', unsafe_allow_html=True)
-    btn_col1, btn_col2, btn_col3 = st.columns([0.2, 2, 0.2])
+    btn_col1, btn_col2, btn_col3 = st.columns([0.5, 2, 0.5])
     with btn_col2:
         if st.button("Screen Candidates", key="resume_btn"):
             st.switch_page("pages/1_Resume_Screener.py")
@@ -52,7 +52,7 @@ with col2:
     st.markdown('<div class="card-title">Interview Prep</div>', unsafe_allow_html=True)
     st.text(' ')
     st.markdown('<div class="card-description">Generate customized interview questions and case studies for shortlisted candidates</div>', unsafe_allow_html=True)
-    btn_col1, btn_col2, btn_col3 = st.columns([0.1, 2, 0.1])
+    btn_col1, btn_col2, btn_col3 = st.columns([0.5, 2, 0.5])
     with btn_col2:
         if st.button("Prepare Interviews", key="interview_btn"):
             st.switch_page("pages/2_Interview_Prep.py")
@@ -63,7 +63,7 @@ with col3:
     st.markdown('<div class="card-title">Behavioral Assessment</div>', unsafe_allow_html=True)
     st.text(' ')
     st.markdown('<div class="card-description">Compare candidates across 5 BI behavioral competencies with visual insights</div>', unsafe_allow_html=True)
-    btn_col1, btn_col2, btn_col3 = st.columns([0.2, 2, 0.2])
+    btn_col1, btn_col2, btn_col3 = st.columns([0.5, 2, 0.5])
     with btn_col2:
         if st.button("View Analytics", key="behavioral_btn"):
             st.switch_page("pages/3_Behavioral_Assessment.py")
